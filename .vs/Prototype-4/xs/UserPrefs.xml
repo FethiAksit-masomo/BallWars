@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{763DCF33-0D33-3684-09A6-2B8B6168F8C1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Course Library/Script/Enemy.cs">
+    <Files>
+      <File FileName="Assets/Course Library/Script/SpawnManager.cs" Line="13" Column="17" />
+      <File FileName="Assets/Course Library/Script/rotateCamera.cs" />
+      <File FileName="Assets/Course Library/Script/PlayerController.cs" Line="57" Column="6" />
+      <File FileName="Assets/Course Library/Script/Enemy.cs" Line="13" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d90e3b9d-57f4-492c-978a-caf5e125af6c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
