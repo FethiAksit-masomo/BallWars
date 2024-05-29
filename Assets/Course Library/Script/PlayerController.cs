@@ -53,6 +53,12 @@ public class PlayerControl : MonoBehaviour
             powerInducator.gameObject.SetActive(true);
         }
     }
+
+
+    public void HomePage()
+    {
+        SceneManager.LoadScene("HomePage");
+    }
     public void RestartGame()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
